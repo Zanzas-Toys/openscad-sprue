@@ -10,10 +10,11 @@ This script makes it easy to make an array of objects connected by easily remove
 True, this does waste a small amount of plastic, but far less than if the print fails.
 
 So, instead of having something like this:
+![](https://github.com/aherbez/openscad-sprue/blob/main/single_glass.png)
 
 ...you can instead print something like this:
 
-
+![](https://github.com/aherbez/openscad-sprue/blob/main/glass_array.png)
 
 ...getting more copies and with more reliability.
 
